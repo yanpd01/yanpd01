@@ -3,4 +3,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-![logo](figs/CHA.jpg)
+![logo](https://github.com/yanpd01/yanpd01/blob/main/figs/CHA.png)
