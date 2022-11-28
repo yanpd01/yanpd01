@@ -3,4 +3,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-![logo](figs/CHA.png)
+![logo](figs/CHA.jpg)

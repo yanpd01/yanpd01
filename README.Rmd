@@ -18,5 +18,5 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-![logo](figs/CHA.png)
+![logo](figs/CHA.jpg)
 
