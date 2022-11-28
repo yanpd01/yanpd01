@@ -1,0 +1,58 @@
+# YANPD01
+
+## README
+
+```{r readme}
+usethis::use_readme_rmd()
+```
+
+## GIT
+
+```{bash git}
+## git common -----------------------------------------------------
+git add .
+git commit -m "cran fix" # 将文件提交到本地仓库
+git push 
+git push -u origin main  ## push the develop repos 
+git tag V0.0.5.1
+git push origin V0.0.5.1
+git commit --amend       ## 修改注释
+
+## init -----------------------------------------------------------
+git config --global user.name "Yan"
+git config --global user.email "yanpd01@gmail.com"
+git config --global core.autocrlf false
+git config --global core.saftcrlf true
+
+
+git init
+git add .
+git commit -m "creat pkg"
+git branch -M main
+git remote add origin https://github.com/yanpd01/yanpd01.git
+git remote set-url --add  origin https://gitee.com/yanpd01/yanpd01.git
+git push -u  -f origin main
+
+
+## branch --------------------------------------------------------
+git checkout develop              ## switch to develop branch
+git checkout master               ## switch to master branch
+git merge --no-ff develop         ## merge develop to master
+git branch -d develop             ## delete local branch
+git push origin --delete develop  ## delete remote branch
+
+## tag -----------------------------------------------------------
+# git tag -a v1.2 9fceb02 -m "my tag"  ## add tag for sepcific commit.
+git tag V0.0.5.0                      ## add git tag.
+git push origin --tags               ## push all tags to remote.
+git push origin v1.0                 ## push specific tag to remote.
+git tag -d V0.0.5.0                  # delete local tag
+git push origin :refs/tags/V0.0.5.0   # delete remote tag
+
+## 
+git reset --soft HEAD^    ## 撤销上次提交
+git reset --soft HEAD~1   ## 撤销上次提交
+git reset --soft HEAD~2   ## 撤销上两次提交
+
+```
+
