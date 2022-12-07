@@ -3,4 +3,11 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<img src="figs/CHA.png" data-align="right" width="100" />
+<div align="center">
+
+<figure>
+<img src="figs/CHA.png" width="300" alt="logo" />
+<figcaption aria-hidden="true">logo</figcaption>
+</figure>
+
+</div>
