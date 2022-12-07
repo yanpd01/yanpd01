@@ -3,4 +3,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<img src="figs/CHA.png#pic_cente" width="200" />
+![](figs/CHA.png){width=100 div align=right}
