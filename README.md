@@ -4,6 +4,6 @@
 <!-- badges: end -->
 
 <figure>
-<img src="figs/CHA.png" data-align="center" alt="logo" />
+<img src="figs/CHA.png" width="200" alt="logo" />
 <figcaption aria-hidden="true">logo</figcaption>
 </figure>
