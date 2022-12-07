@@ -5,9 +5,6 @@
 
 <div align="center">
 
-<figure>
-<img src="figs/CHA.png" width="300" alt="logo" />
-<figcaption aria-hidden="true">logo</figcaption>
-</figure>
+<img src="figs/CHA.png" width="300" />
 
 </div>

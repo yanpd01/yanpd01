@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 
 <div align="center">
 
-![logo](figs/CHA.png){width=300}
+![](figs/CHA.png){width=300}
 
 </div>
 
