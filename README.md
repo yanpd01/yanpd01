@@ -3,7 +3,4 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-<figure>
-<img src="figs/CHA.png" width="200" alt="logo" />
-<figcaption aria-hidden="true">logo</figcaption>
-</figure>
+<img src="figs/CHA.png#pic_cente" width="200" />
